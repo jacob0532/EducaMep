@@ -1,5 +1,7 @@
 # EducaMep
-In 2020, a website was created to facilitate teaching during the COVID-19 pandemic. Its objective was to provide a platform for educational institutions, divided into administrative, teaching, and student sections. The administrative section allows for managing students, teachers, courses, and other similar functions. On the other hand, from the perspective of teaching and students, the website offers various tools to promote educational communication, such as publishing and submitting assignments, a general chat, and other options.
+In 2020, a website was created to facilitate teaching during the COVID-19 pandemic. Its objective was to provide a platform for educational institutions, 
+divided into administrative, teaching, and student sections. The administrative section allows for managing students, teachers, courses, and other similar functions.
+On the other hand, from the perspective of teaching and students, the website offers various tools to promote educational communication, such as publishing and submitting assignments, a general chat, and other options.
 
 Below are the login details to use the website:
 
